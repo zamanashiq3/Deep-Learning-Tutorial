@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Deeplearning with Keras in one sitting - zamanashiq3's blog
 
-You can use the [editor on GitHub](https://github.com/zamanashiq3/Deep-Learning-Tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Last summer I was in attanding a data science workshop when I was introduced with Deep nearning neural network. Nowadays with bigdata and computation, We can do some prottry remarkable thing in Artificial Neural Network based classification and regression problems.   
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
